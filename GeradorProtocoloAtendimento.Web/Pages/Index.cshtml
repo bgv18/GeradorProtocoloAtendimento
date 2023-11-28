@@ -1,0 +1,42 @@
+﻿@page
+@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Protocolo</title>
+    <link href="~/css/StyleSheet.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form" method="post">
+        <div class="container">
+            <div class="header">
+                <h2>Gerador de Protocolo</h2>
+            </div>
+            <div class="content">
+                <div class="form-group">
+                    <label for="nome">Id empresa:</label>
+                    <input type="text" name="idEmpresa" id="idEmpresa" placeholder="Digite o id da empresa">
+                </div>
+                <div class="form-group">
+                    <label for="data">Data:</label>
+                    <input type="date" name="data" id="data">
+                </div>
+                <button type="submit" asp-page-handler="Submit" >Gerar Protocolo</button>
+            </div>
+        </div>
+    </form>
+    <br/>
+    <div>
+        <label for="nome">Protocolo:</label>
+        <input type="text" value="@Model.Protocolo" readonly>
+    </div>
+
+</body>
+</html>

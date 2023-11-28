@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GeradorProtocoloAtendimento.Web.props" />
+</Project>

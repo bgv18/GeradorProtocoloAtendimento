@@ -1,0 +1,17 @@
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\GeradorProtocoloAtendimento.Services.csproj.AssemblyReference.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\GeradorProtocoloAtendimento.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\GeradorProtocoloAtendimento.Services.AssemblyInfoInputs.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\GeradorProtocoloAtendimento.Services.AssemblyInfo.cs
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\GeradorProtocoloAtendimento.Services.csproj.CoreCompileInputs.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\bin\Debug\net6.0\GeradorProtocoloAtendimento.Services.deps.json
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\bin\Debug\net6.0\GeradorProtocoloAtendimento.Services.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\bin\Debug\net6.0\GeradorProtocoloAtendimento.Services.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\bin\Debug\net6.0\GeradorProtocoloAtendimento.Domain.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\bin\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\bin\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\bin\Debug\net6.0\GeradorProtocoloAtendimento.Domain.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\GeradorProtocoloAtendimento.Services.csproj.CopyComplete
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\GeradorProtocoloAtendimento.Services.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\refint\GeradorProtocoloAtendimento.Services.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\GeradorProtocoloAtendimento.Services.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Services\obj\Debug\net6.0\ref\GeradorProtocoloAtendimento.Services.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgOejkO0vlDKHcwNgFJG9/zttdUQn6MPd4IaaPdhJo8PQZ9GW0acoaEd1yMvpE+W7ONOZP226etyVDrkNSEwBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Save\\Projects\\ws-vs2023\\GeradorProtocoloAtendimento\\GeradorProtocoloAtendimento.Web\\GeradorProtocoloAtendimento.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

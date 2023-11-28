@@ -1,0 +1,15 @@
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.csproj.AssemblyReference.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.AssemblyInfoInputs.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.AssemblyInfo.cs
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.csproj.CoreCompileInputs.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\bin\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.deps.json
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\bin\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\bin\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\bin\Debug\net6.0\GeradorProtocoloAtendimento.Domain.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\bin\Debug\net6.0\GeradorProtocoloAtendimento.Domain.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.csproj.CopyComplete
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\refint\GeradorProtocoloAtendimento.Infraestrutura.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\GeradorProtocoloAtendimento.Infraestrutura.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Infraestrutura\obj\Debug\net6.0\ref\GeradorProtocoloAtendimento.Infraestrutura.dll

@@ -1,0 +1,12 @@
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\bin\Debug\net6.0\GeradorProtocoloAtendimento.Domain.deps.json
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\bin\Debug\net6.0\GeradorProtocoloAtendimento.Domain.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\bin\Debug\net6.0\GeradorProtocoloAtendimento.Domain.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\GeradorProtocoloAtendimento.Domain.csproj.AssemblyReference.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\GeradorProtocoloAtendimento.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\GeradorProtocoloAtendimento.Domain.AssemblyInfoInputs.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\GeradorProtocoloAtendimento.Domain.AssemblyInfo.cs
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\GeradorProtocoloAtendimento.Domain.csproj.CoreCompileInputs.cache
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\GeradorProtocoloAtendimento.Domain.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\refint\GeradorProtocoloAtendimento.Domain.dll
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\GeradorProtocoloAtendimento.Domain.pdb
+D:\Save\Projects\ws-vs2023\GeradorProtocoloAtendimento\GeradorProtocoloAtendimento.Domain\obj\Debug\net6.0\ref\GeradorProtocoloAtendimento.Domain.dll
